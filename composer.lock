@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "3c49a0609c4bf7aba09c1a8112018bac",
+    "content-hash": "97317fb99f8c86b965320060913a9f07",
     "packages": [
         {
             "name": "borobudur/dci",
@@ -1771,16 +1771,16 @@
         },
         {
             "name": "pandawa/pandawa",
-            "version": "dev-master",
+            "version": "v4.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/pandawa/pandawa.git",
-                "reference": "156dc0b22656d559cb92ba7543856e27a1887207"
+                "reference": "71cc2f0461eaac1841e8f30bd6f04a41dfcf73a7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pandawa/pandawa/zipball/156dc0b22656d559cb92ba7543856e27a1887207",
-                "reference": "156dc0b22656d559cb92ba7543856e27a1887207",
+                "url": "https://api.github.com/repos/pandawa/pandawa/zipball/71cc2f0461eaac1841e8f30bd6f04a41dfcf73a7",
+                "reference": "71cc2f0461eaac1841e8f30bd6f04a41dfcf73a7",
                 "shasum": ""
             },
             "require": {
@@ -1843,7 +1843,7 @@
                 "laravel",
                 "pandawa"
             ],
-            "time": "2021-02-12T07:21:39+00:00"
+            "time": "2021-02-16T08:49:39+00:00"
         },
         {
             "name": "phpoption/phpoption",
@@ -8220,7 +8220,6 @@
         "borobudur/exception": 20,
         "borobudur/parameter": 20,
         "lcobucci/jwt": 20,
-        "pandawa/pandawa": 20,
         "fzaninotto/faker": 20
     },
     "prefer-stable": true,
