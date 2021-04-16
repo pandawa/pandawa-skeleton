@@ -6,12 +6,8 @@
     "type": "project",
     "prefer-stable": true,
     "require": {
-        "php": ">=7.3|>=8.0",
-        "borobudur/dci": "~0.1@dev",
-        "borobudur/exception": "~0.1@dev",
-        "borobudur/parameter": "~0.1@dev",
+        "php": ">=7.3",
         "laravel/tinker": "^2.0",
-        "lcobucci/jwt": "^4.0@dev",
         "pandawa/pandawa": "^4.0"
     },
     "require-dev": {
