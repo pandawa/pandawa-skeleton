@@ -39,6 +39,8 @@ class Kernel extends ConsoleKernel
     {
         parent::__construct($app, $events);
 
+        $app->useAppPath($app->basePath().DIRECTORY_SEPARATOR.'app'.DIRECTORY_SEPARATOR.'laravel');
+
         $this->injectModule();
     }
 

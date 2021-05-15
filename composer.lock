@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "3d21a0f60c2491237d4950301559c3c4",
+    "content-hash": "8b83a69e17a0c4f721f628dfd9391c86",
     "packages": [
         {
             "name": "borobudur/dci",
@@ -1739,16 +1739,16 @@
         },
         {
             "name": "pandawa/pandawa",
-            "version": "v4.0.4",
+            "version": "v4.0.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/pandawa/pandawa.git",
-                "reference": "8323d62d711c8dc2310148f08729871ba525e368"
+                "reference": "0d5b314d1d2b36de3885ae66b9ebb29b0e044206"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pandawa/pandawa/zipball/8323d62d711c8dc2310148f08729871ba525e368",
-                "reference": "8323d62d711c8dc2310148f08729871ba525e368",
+                "url": "https://api.github.com/repos/pandawa/pandawa/zipball/0d5b314d1d2b36de3885ae66b9ebb29b0e044206",
+                "reference": "0d5b314d1d2b36de3885ae66b9ebb29b0e044206",
                 "shasum": ""
             },
             "require": {
@@ -1811,7 +1811,11 @@
                 "laravel",
                 "pandawa"
             ],
-            "time": "2021-04-06T17:56:25+00:00"
+            "support": {
+                "issues": "https://github.com/pandawa/pandawa/issues",
+                "source": "https://github.com/pandawa/pandawa/tree/v4.0.5"
+            },
+            "time": "2021-05-08T16:18:40+00:00"
         },
         {
             "name": "phpoption/phpoption",
@@ -8194,8 +8198,8 @@
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
-        "php": ">=7.3|>=8.0"
+        "php": ">=7.3"
     },
     "platform-dev": [],
-    "plugin-api-version": "1.1.0"
+    "plugin-api-version": "2.0.0"
 }
