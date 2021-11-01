@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8b83a69e17a0c4f721f628dfd9391c86",
+    "content-hash": "94cec689f929f3674a01c585419082b1",
     "packages": [
         {
             "name": "borobudur/dci",
@@ -1840,16 +1840,16 @@
         },
         {
             "name": "pandawa/pandawa",
-            "version": "v4.0.5",
+            "version": "v4.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/pandawa/pandawa.git",
-                "reference": "0d5b314d1d2b36de3885ae66b9ebb29b0e044206"
+                "reference": "44daef1aeb3ab2c8b3deb91f6e127c5ae36fcd96"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pandawa/pandawa/zipball/0d5b314d1d2b36de3885ae66b9ebb29b0e044206",
-                "reference": "0d5b314d1d2b36de3885ae66b9ebb29b0e044206",
+                "url": "https://api.github.com/repos/pandawa/pandawa/zipball/44daef1aeb3ab2c8b3deb91f6e127c5ae36fcd96",
+                "reference": "44daef1aeb3ab2c8b3deb91f6e127c5ae36fcd96",
                 "shasum": ""
             },
             "require": {
@@ -1861,7 +1861,7 @@
                 "laravel/framework": "^8.0",
                 "laravel/helpers": "^1.1",
                 "lcobucci/jwt": "^4.0",
-                "php": ">=7.3|>=8.0",
+                "php": "^7.3|^8.0",
                 "ramsey/uuid": "^4.0",
                 "reactivex/rxphp": "^2.0",
                 "symfony/yaml": "^4.0"
@@ -1914,9 +1914,9 @@
             ],
             "support": {
                 "issues": "https://github.com/pandawa/pandawa/issues",
-                "source": "https://github.com/pandawa/pandawa/tree/v4.0.5"
+                "source": "https://github.com/pandawa/pandawa/tree/v4.2.0"
             },
-            "time": "2021-05-08T16:18:40+00:00"
+            "time": "2021-11-01T11:02:51+00:00"
         },
         {
             "name": "phpoption/phpoption",

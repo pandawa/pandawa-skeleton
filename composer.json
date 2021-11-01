@@ -6,9 +6,9 @@
     "type": "project",
     "prefer-stable": true,
     "require": {
-        "php": ">=7.3",
+        "php": ">=7.4",
         "laravel/tinker": "^2.0",
-        "pandawa/pandawa": "^4.0"
+        "pandawa/pandawa": "^4.2"
     },
     "require-dev": {
         "barryvdh/laravel-ide-helper": "^2.6",
