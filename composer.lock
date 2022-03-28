@@ -2247,16 +2247,16 @@
         },
         {
             "name": "pandawa/pandawa",
-            "version": "v4.3.1",
+            "version": "v4.3.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/pandawa/pandawa.git",
-                "reference": "f7308e4a49376c7c2fde51bcc882d83efc894ba3"
+                "reference": "05588b438779c300279f9f4062c7fba1e27d9cae"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pandawa/pandawa/zipball/f7308e4a49376c7c2fde51bcc882d83efc894ba3",
-                "reference": "f7308e4a49376c7c2fde51bcc882d83efc894ba3",
+                "url": "https://api.github.com/repos/pandawa/pandawa/zipball/05588b438779c300279f9f4062c7fba1e27d9cae",
+                "reference": "05588b438779c300279f9f4062c7fba1e27d9cae",
                 "shasum": ""
             },
             "require": {
@@ -2320,9 +2320,9 @@
             ],
             "support": {
                 "issues": "https://github.com/pandawa/pandawa/issues",
-                "source": "https://github.com/pandawa/pandawa/tree/v4.3.1"
+                "source": "https://github.com/pandawa/pandawa/tree/v4.3.2"
             },
-            "time": "2022-03-12T08:12:37+00:00"
+            "time": "2022-03-14T13:15:46+00:00"
         },
         {
             "name": "phpoption/phpoption",
