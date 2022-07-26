@@ -1,5 +1,0 @@
-homepage:
-    type: presenter
-    methods: [get]
-    path: /
-    presenter: landing

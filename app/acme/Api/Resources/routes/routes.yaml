@@ -1,5 +1,0 @@
-ping:
-    type: presenter
-    methods: [get]
-    path: ping
-    presenter: ping

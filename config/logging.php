@@ -33,11 +33,6 @@ return [
     */
 
     'channels' => [
-        'ammana' => [
-            'driver'   => 'stack',
-            'channels' => ['daily', 'slack'],
-        ],
-
         'stack' => [
             'driver'   => 'stack',
             'channels' => ['single'],
