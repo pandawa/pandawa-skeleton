@@ -15,6 +15,8 @@ $app = new Pandawa\Component\Foundation\Application(
     realpath(__DIR__.'/../')
 );
 
+$app->useAppPath($app->basePath('src'));
+
 /*
 |--------------------------------------------------------------------------
 | Bind Important Interfaces
