@@ -572,16 +572,16 @@
         },
         {
             "name": "laravel/framework",
-            "version": "v9.21.6",
+            "version": "v9.22.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-                "reference": "569d7a2e361895f90e66bb4e02db89c27691a0e7"
+                "reference": "b3b3dd43b9899f23df6d1d3e5390bd4662947a46"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/569d7a2e361895f90e66bb4e02db89c27691a0e7",
-                "reference": "569d7a2e361895f90e66bb4e02db89c27691a0e7",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/b3b3dd43b9899f23df6d1d3e5390bd4662947a46",
+                "reference": "b3b3dd43b9899f23df6d1d3e5390bd4662947a46",
                 "shasum": ""
             },
             "require": {
@@ -748,7 +748,7 @@
                 "issues": "https://github.com/laravel/framework/issues",
                 "source": "https://github.com/laravel/framework"
             },
-            "time": "2022-07-22T14:16:44+00:00"
+            "time": "2022-07-26T16:16:33+00:00"
         },
         {
             "name": "laravel/helpers",
@@ -1863,12 +1863,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/pandawa/foundation.git",
-                "reference": "4e74bc2393b2c4c3392dc33d1680cc970a190d63"
+                "reference": "1190a276bc50abf24d4d4e5688b93329ed0bd55b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pandawa/foundation/zipball/4e74bc2393b2c4c3392dc33d1680cc970a190d63",
-                "reference": "4e74bc2393b2c4c3392dc33d1680cc970a190d63",
+                "url": "https://api.github.com/repos/pandawa/foundation/zipball/1190a276bc50abf24d4d4e5688b93329ed0bd55b",
+                "reference": "1190a276bc50abf24d4d4e5688b93329ed0bd55b",
                 "shasum": ""
             },
             "require": {
@@ -1904,7 +1904,7 @@
                 "issues": "https://github.com/pandawa/foundation/issues",
                 "source": "https://github.com/pandawa/foundation/tree/master"
             },
-            "time": "2022-07-26T10:19:34+00:00"
+            "time": "2022-07-27T05:35:10+00:00"
         },
         {
             "name": "pandawa/foundation-bundle",
@@ -1912,12 +1912,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/pandawa/foundation-bundle.git",
-                "reference": "16bc114755099aea432061d7f3ae37585d372c8a"
+                "reference": "4cbc229f3d8e20dd155e489e24cc85ae534b706b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pandawa/foundation-bundle/zipball/16bc114755099aea432061d7f3ae37585d372c8a",
-                "reference": "16bc114755099aea432061d7f3ae37585d372c8a",
+                "url": "https://api.github.com/repos/pandawa/foundation-bundle/zipball/4cbc229f3d8e20dd155e489e24cc85ae534b706b",
+                "reference": "4cbc229f3d8e20dd155e489e24cc85ae534b706b",
                 "shasum": ""
             },
             "require": {
@@ -1958,7 +1958,7 @@
                 "issues": "https://github.com/pandawa/foundation-bundle/issues",
                 "source": "https://github.com/pandawa/foundation-bundle/tree/master"
             },
-            "time": "2022-07-26T09:22:41+00:00"
+            "time": "2022-07-26T16:28:39+00:00"
         },
         {
             "name": "pandawa/foundation-contracts",
@@ -1966,12 +1966,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/pandawa/foundation-contracts.git",
-                "reference": "7451d7545516f3362f0c63354c3db8a2b55abf00"
+                "reference": "67794ea78903815519794bc03f8451447c778c28"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pandawa/foundation-contracts/zipball/7451d7545516f3362f0c63354c3db8a2b55abf00",
-                "reference": "7451d7545516f3362f0c63354c3db8a2b55abf00",
+                "url": "https://api.github.com/repos/pandawa/foundation-contracts/zipball/67794ea78903815519794bc03f8451447c778c28",
+                "reference": "67794ea78903815519794bc03f8451447c778c28",
                 "shasum": ""
             },
             "require": {
@@ -2005,7 +2005,7 @@
                 "issues": "https://github.com/pandawa/foundation-contracts/issues",
                 "source": "https://github.com/pandawa/foundation-contracts/tree/master"
             },
-            "time": "2022-07-26T09:22:41+00:00"
+            "time": "2022-07-27T05:29:54+00:00"
         },
         {
             "name": "phpoption/phpoption",

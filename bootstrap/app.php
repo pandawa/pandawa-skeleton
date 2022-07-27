@@ -11,11 +11,12 @@
 |
 */
 
-$app = new Pandawa\Component\Foundation\Application(
-    realpath(__DIR__.'/../')
-);
+$foundation = require realpath(__DIR__.'/../') . '/config/foundation.php';
 
-$app->useAppPath($app->basePath('src'));
+$app = new Pandawa\Component\Foundation\Application(
+    realpath(__DIR__.'/../'),
+    $foundation
+);
 
 /*
 |--------------------------------------------------------------------------
@@ -30,17 +31,17 @@ $app->useAppPath($app->basePath('src'));
 
 $app->singleton(
     Illuminate\Contracts\Http\Kernel::class,
-    App\Http\Kernel::class
+    $foundation['http']['kernel']['class']
 );
 
 $app->singleton(
     Illuminate\Contracts\Console\Kernel::class,
-    App\Console\Kernel::class
+    $foundation['console']['kernel']['class']
 );
 
 $app->singleton(
     Illuminate\Contracts\Debug\ExceptionHandler::class,
-    Pandawa\Component\Foundation\Handler\ExceptionHandler::class,
+    $foundation['exception']['handler'],
 );
 
 /*
