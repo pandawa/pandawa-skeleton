@@ -51,14 +51,6 @@ return [
             'days'   => 7,
         ],
 
-        'slack' => [
-            'driver'   => 'slack',
-            'url'      => env('LOG_SLACK_WEBHOOK_URL'),
-            'username' => 'Ammana API Log',
-            'emoji'    => ':boom:',
-            'level'    => 'error',
-        ],
-
         'stderr' => [
             'driver'  => 'monolog',
             'handler' => StreamHandler::class,
