@@ -1770,12 +1770,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/pandawa/config.git",
-                "reference": "6b79fda7f3e47fa6c1571411ba12a65b238b86f8"
+                "reference": "70cc805b39019da35ef5502904ed2d124dca0a51"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pandawa/config/zipball/6b79fda7f3e47fa6c1571411ba12a65b238b86f8",
-                "reference": "6b79fda7f3e47fa6c1571411ba12a65b238b86f8",
+                "url": "https://api.github.com/repos/pandawa/config/zipball/70cc805b39019da35ef5502904ed2d124dca0a51",
+                "reference": "70cc805b39019da35ef5502904ed2d124dca0a51",
                 "shasum": ""
             },
             "require": {
@@ -1812,7 +1812,7 @@
                 "issues": "https://github.com/pandawa/config/issues",
                 "source": "https://github.com/pandawa/config/tree/master"
             },
-            "time": "2022-09-04T18:05:50+00:00"
+            "time": "2022-10-02T04:11:46+00:00"
         },
         {
             "name": "pandawa/config-contracts",
@@ -1867,12 +1867,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/pandawa/foundation.git",
-                "reference": "335dda4331bef1f457e975daee70fec64b3c9d4b"
+                "reference": "ff80a37354113f34be6541a237f2e691b5d17c49"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pandawa/foundation/zipball/335dda4331bef1f457e975daee70fec64b3c9d4b",
-                "reference": "335dda4331bef1f457e975daee70fec64b3c9d4b",
+                "url": "https://api.github.com/repos/pandawa/foundation/zipball/ff80a37354113f34be6541a237f2e691b5d17c49",
+                "reference": "ff80a37354113f34be6541a237f2e691b5d17c49",
                 "shasum": ""
             },
             "require": {
@@ -1908,7 +1908,7 @@
                 "issues": "https://github.com/pandawa/foundation/issues",
                 "source": "https://github.com/pandawa/foundation/tree/master"
             },
-            "time": "2022-09-28T07:03:53+00:00"
+            "time": "2022-10-02T04:11:50+00:00"
         },
         {
             "name": "pandawa/foundation-bundle",
@@ -1916,12 +1916,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/pandawa/foundation-bundle.git",
-                "reference": "4ead52017be147ffc0f05b7ebfe0bc045a268409"
+                "reference": "baaa20c2380d3e8db82d39bf41307507266f9933"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pandawa/foundation-bundle/zipball/4ead52017be147ffc0f05b7ebfe0bc045a268409",
-                "reference": "4ead52017be147ffc0f05b7ebfe0bc045a268409",
+                "url": "https://api.github.com/repos/pandawa/foundation-bundle/zipball/baaa20c2380d3e8db82d39bf41307507266f9933",
+                "reference": "baaa20c2380d3e8db82d39bf41307507266f9933",
                 "shasum": ""
             },
             "require": {
@@ -1962,7 +1962,7 @@
                 "issues": "https://github.com/pandawa/foundation-bundle/issues",
                 "source": "https://github.com/pandawa/foundation-bundle/tree/master"
             },
-            "time": "2022-09-11T14:52:47+00:00"
+            "time": "2022-10-02T04:11:13+00:00"
         },
         {
             "name": "pandawa/foundation-contracts",
