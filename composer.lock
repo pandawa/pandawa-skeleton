@@ -1920,12 +1920,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/pandawa/foundation-bundle.git",
-                "reference": "baaa20c2380d3e8db82d39bf41307507266f9933"
+                "reference": "2ce599e5baed46870a6507cb50e09bfb1e06d2a7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pandawa/foundation-bundle/zipball/baaa20c2380d3e8db82d39bf41307507266f9933",
-                "reference": "baaa20c2380d3e8db82d39bf41307507266f9933",
+                "url": "https://api.github.com/repos/pandawa/foundation-bundle/zipball/2ce599e5baed46870a6507cb50e09bfb1e06d2a7",
+                "reference": "2ce599e5baed46870a6507cb50e09bfb1e06d2a7",
                 "shasum": ""
             },
             "require": {
@@ -1966,7 +1966,7 @@
                 "issues": "https://github.com/pandawa/foundation-bundle/issues",
                 "source": "https://github.com/pandawa/foundation-bundle/tree/master"
             },
-            "time": "2022-10-02T04:11:13+00:00"
+            "time": "2023-02-12T07:51:23+00:00"
         },
         {
             "name": "pandawa/foundation-contracts",
